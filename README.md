@@ -17,5 +17,6 @@
   <a href = "mailto:gileandrocampos8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gileandrocampos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+![](https://komarev.com/ghpvc/?username=gilecampos)
  
 </div>
