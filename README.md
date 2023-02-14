@@ -1,22 +1,19 @@
-## Olá! eu sou Gileandro Campos.
-## Desenvolvedor Front End
-<div align="center">
-  <a href="https://beacons.ai/gileandrocampos">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=gilecampos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilecampos&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gile-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gile-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gile-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href = "mailto:gileandrocampos8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gileandrocampos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-![](https://komarev.com/ghpvc/?username=gilecampos)
- 
+# Bem-vindo, sou Gileandro Campos
+# Desenvolvedor Front End
+Sou um desenvolvedor front end altamente capacitado com experiência em criar landing pages modernas, responsivas e otimizadas para SEO e acessibilidade. Tenho uma paixão por criar soluções elegantes e funcionais, trabalhando sempre com as melhores práticas e tecnologias atualizadas.
+
+## Habilidades e Tecnologias
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=50px; /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width= 50px; /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width = 50px; /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width = 50px;/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width= 50px; /> 
+      
+     
+## Formação Acadêmica (ANÁLISE E DESENVOLVIMENTO DE SISTEMAS)
+<a href="https://unip.br/" target="_blank"><img src="https://www.unip.br/assets/img/logo/logo-unip.svg" target="_blank"></a>
+
+
+## Contatos:
+<div>
+<a href="https://www.instagram.com/gileandro.campos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:gileandrocampos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/gileandrocampos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
