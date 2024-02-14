@@ -7,13 +7,10 @@ Sou um desenvolvedor front end altamente capacitado com experiência em criar la
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width= 50px; /> 
       
      
-## Formação Acadêmica (ANÁLISE E DESENVOLVIMENTO DE SISTEMAS)
-<a href="https://unip.br/" target="_blank"><img src="https://www.unip.br/assets/img/logo/logo-unip.svg" target="_blank"></a>
 
 
 ## Contatos:
 <div>
-<a href="https://www.instagram.com/gileandro.campos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:gileandrocampos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gileandrocampos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
